@@ -9,7 +9,6 @@ Welcome to the Semi-Autonomous Smart Electric Vehicle (SASEV) project! This proj
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 
 ## Project Overview
@@ -80,8 +79,6 @@ To install and run the project on your system, follow these steps:
   - Ensure all safety protocols are followed during testing.
 
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact us:
