@@ -1,6 +1,6 @@
 # 🚗🔋 Semi-Autonomous Smart Electric Vehicle with AI-Based Driving Assistance
 
-![SASEV Logo](https://via.placeholder.com/150) 
+![image](https://github.com/user-attachments/assets/aac9274f-20a1-4d1c-868d-f9b60e12545b) 
 
 Welcome to the **Semi-Autonomous Smart Electric Vehicle (SASEV)** project! This project integrates advanced AI-based driving assistance technologies into an electric vehicle (EV) to enhance safety, convenience, and energy efficiency. The vehicle is designed to provide a semi-autonomous driving experience, incorporating features that support both the driver and the environment.
 
